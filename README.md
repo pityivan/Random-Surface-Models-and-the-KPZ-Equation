@@ -2,12 +2,17 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21217170)
 
 Name: Ivan Wong
+
 UNI: iw2261
 
 This final project implements several different random surface models and analyzes them in their respective Jupyter Notebook. Specifically, the files correspond to:
 * ballistic_deposition.ipynb: Ballistic Deposition in 1+1 and 2+1 Dimensions
 * eden_model.ipynb: The Eden Model in 2 Dimensions
 * DLA.ipynb: Diffusion Limited Aggregation in 2 Dimensions
+
+![til](./img/ballistic_gif.gif)
+![til](./img/eden_gif.gif)
+![til](./img/scatter_gif.gif)
 
 The following coding resources were used in implementation:
 * https://matplotlib.org/stable/users/explain/animations/animations.html
