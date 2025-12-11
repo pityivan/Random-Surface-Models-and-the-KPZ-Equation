@@ -12,7 +12,7 @@ This final project implements several different random surface models and analyz
 
 ![til](./img/ballistic_gif.gif)
 ![til](./img/eden_gif.gif)
-![til](./img/scatter_gif.gif)
+![til](./img/DLA_gif.gif)
 
 The following coding resources were used in implementation:
 * https://matplotlib.org/stable/users/explain/animations/animations.html
